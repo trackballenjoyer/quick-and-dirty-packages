@@ -4,9 +4,9 @@
 2. `cd quick-and-dirty-packages`
 3. `chmod +x ./install-packages.sh`
 4. Create one or more of the following files with your desired contents:
-   - packages.apt
-   - releases.github
-   - repositories.apt
+   - [packages.apt](packages.apt)
+   - [releases.github](releases.github)
+   - [repositories.apt](releases.github)
 5. Run the package installer: `./install-packages.sh`
 
 ## Package file examples
